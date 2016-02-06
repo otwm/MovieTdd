@@ -1,0 +1,6 @@
+apply 'java'
+apply 'idea'
+
+dependencies{
+
+}
